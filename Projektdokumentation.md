@@ -5,8 +5,8 @@ Müller
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 28.08 | 0.0.1   | Heute habe ich das Projekt geplant.                          |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+|       |      |                                                              |
+|       |   |                                                              |
 
 ## 1 Informieren
 
@@ -18,30 +18,35 @@ Dieses Projekt beinhaltet einen RandomNumber Generator, bei dem der User die Zah
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |    Muss         |  FA  | Als User möchte ich, dass der Computer eine random Number speicher, damit ich diese erraten kann.  |
-| 2  |       Muss          |  FA    | Als User möchte ich, dass der Computer nach der Eingabe einer Zahl                                   |
-
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
+| 1    |    Muss         |  FA  | Der Generator soll eine Zahl zwischen 1-100 generieren.  |
+| 2  |       Muss          |  FA    | Der Generator soll nach US 6 einen Hinweis (> oder < als Zahl) geben.                                   |
+| 3 | Kann| QA | Die Website bzw. Applikation soll ein anschauliches Design haben.
+| 4| Kann| QA | Das Programm soll, nach erraten der RN, ausgeben wieviele Rateversuche gebraucht wurden.
+|5| Kann| QA| Das Programm soll mit Fehleingaben umgehen können --> Hinweis auf Fehleingabe|
+|6| Muss| FA| Der Generator erkennt eine Eingabe des Users.|
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
-
+| 1.1  |   User drückt auf Start. | Befehl zu Ausführung   | Der RNGenerator speichert eine RN ohne sie auszugeben.|
+| 2.1  | User versucht die RN zu erraten. |Eingabe einer Zahl| Der RNG vergeleicht die RN und die Eingabe miteinander und gibt aus ob <, > oder =.|
+|4.1| User errät RN. | Eingabe von RN|  RNG gibt aus wieviele Rateversuche gebraucht wurden.|
+|5.1| User gibt Zahl auserhalb 1-100 ein| Eingabe von -13| Der RNG gibt aus dass EIngabe ausserhalb des benutzbaren Zahlenraumes ist.|
+|6.1| User versucht RN zu erraten.| Eingabe einer Zahl| Der Generator erkennt die Ausgabe und geht zu US 1 über.|
 ### 1.4 Diagramme
-
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+ 
+![PapDesigner - RandomNumber pap 25 08 2022 11_16_02](https://user-images.githubusercontent.com/111043950/186626368-ac4ae957-a94d-4f4c-b6b9-15a6d16ec5de.png)
+![PapDesigner - RandomNumber pap 25 08 2022 11_16_10](https://user-images.githubusercontent.com/111043950/186626402-3f849ccb-eb00-42ae-ba1a-3963d6d5d6cd.png)
 
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1  |  1.9.22     |   Ben    |  Schreiben des Codes zur Generierung einer RandomNumber, Ausführen des Codes| 1 Arbeitspaket |
+| 2 | 1.9.22   |  Ben   | Schreiben des Codes zu Erkennung einer Eingabe.  | 1 Arbeitspaket|
+|3 | 15.9.22| Ben| Verbessung des Designes, Anpassungen der Buttons.| 2 Arbeitspakete|
+|4| 1.9.22| Ben| Schreiben des Codes zur Zählung und Ausgabe der benötigten Versuche.|
+|5| 
 
 Total: 
 
