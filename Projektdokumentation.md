@@ -5,7 +5,7 @@ Müller
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 28.08 | 0.0.1   | Heute habe ich das Projekt geplant.                          |
-|       |      |                                                              |
+|   01.09    | 0.02      |  Heute habe ich den Code geschrieben und den Generator sommit in den Grunzügen fertig gecodet.|                                                            |
 |       |   |                                                              |
 
 ## 1 Informieren
@@ -45,7 +45,7 @@ Dieses Projekt beinhaltet einen RandomNumber Generator, bei dem der User die Zah
 | 1  |  1.9.22     |   Ben    |  Schreiben des Codes zur Generierung einer RandomNumber, Ausführen des Codes| 1 Arbeitspaket |
 | 2 | 1.9.22   |  Ben   | Schreiben des Codes zu Erkennung einer Eingabe.  | 1 Arbeitspaket|
 |3 | 15.9.22| Ben| Verbessung des Designes, Anpassungen der Buttons.| 2 Arbeitspakete|
-|4| 1.9.22| Ben| Schreiben des Codes zur Zählung und Ausgabe der benötigten Versuche.|
+|4| 1.9.22| Ben| Schreiben des Codes zur Zählung und Ausgabe der benötigten Versuche.| 1 Arbeitspaket|
 |5| 
 
 Total: 
@@ -62,9 +62,9 @@ Total:
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
-
+| 1.A  |   01.09    |    Ben       |     1 AP          |    30 Min.               |
+| 2.A  | 01.09      |  Ben         |    1 AP           |       1 AP            |
+| 2.A| 01.09| Ben | 1 AP | 1.5 AP|
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
 ## 5 Kontrollieren
