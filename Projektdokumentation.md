@@ -73,8 +73,8 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 01.09 |  Der RNG generiert und speichert eine Zahl.        | Ben       |
+| 2.1  | 01.09    | Der RNG verarbeitet die Eingabe und gibt aus ob >, < oder =.           |    Ben    |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
