@@ -26,6 +26,8 @@ Dieses Projekt beinhaltet einen RandomNumber Generator, bei dem der User die Zah
 | 4| Kann| QA | Das Programm soll, nach erraten der RN, ausgeben wieviele Rateversuche gebraucht wurden.
 |5| Kann| QA| Das Programm soll mit Fehleingaben umgehen können --> Hinweis auf Fehleingabe|
 |6| Muss| FA| Der Generator erkennt eine Eingabe des Users.|
+|7| Muss| FA | Der Gen fragt den User ob er Schwierigkeitsgrad 1 oder 2 will.|
+
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -48,7 +50,7 @@ Dieses Projekt beinhaltet einen RandomNumber Generator, bei dem der User die Zah
 | 2 | 1.9.22   |  Ben   | Schreiben des Codes zu Erkennung einer Eingabe.  | 1 Arbeitspaket|
 |3 | 08.9.22| Ben| Verbessung des Designes, Anpassungen der Buttons.| 2 Arbeitspakete|
 |4| 1.9.22| Ben| Schreiben des Codes zur Zählung und Ausgabe der benötigten Versuche.| 1 Arbeitspaket|
-|5| 
+|5| 08.9.22| Ben | Schreiben des Codes zur Erfragung des Schwierigkeitsgrades.|
 
 Total: 
 
