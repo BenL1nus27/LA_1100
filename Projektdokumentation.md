@@ -5,8 +5,10 @@ Müller
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 28.08 | 0.0.1   | Heute habe ich das Projekt geplant.                          |
-|   01.09    | 0.0.2      |  Heute habe ich den Code geschrieben und den Generator sommit in den Grunzügen fertig gecodet.|                                             | 08.09               | 0.0.3 | Heute habe ich den Code verfeinrt und grundlegende Fehler behoben. Danach habe ich das Layout verschönert und die Benutzerfreundlichkeit verbessert.
-|       |   |                                                              |
+|   01.09    | 0.0.2      |  Heute habe ich den Code geschrieben und den Generator sommit in den Grunzügen fertig gecodet.|                                             | 08.09    | 0.0.3 | Heute habe ich den Code verfeinert und grundlegende Fehler behoben. Danach habe ich das Layout verschönert und die Benutzerfreundlichkeit verbessert. |
+|       |         |                                                              |
+
+
 
 ## 1 Informieren
 
