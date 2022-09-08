@@ -69,8 +69,8 @@ Total:
 | 1.A  |   01.09    |    Ben       |     1 AP          |    30 Min.               |
 | 2.A  | 01.09      |  Ben         |    1 AP           |       1 AP            |
 | 3.A| 01.09| Ben | 1 AP | 1.5 AP|
-| 4.A| 08.09| Ben | 2 AP | 3 AP|
-
+| 4.A| 08.09| Ben | 2 AP | 2 AP|
+|5.A| 08.09| Ben | 1 AP| 1 AP|
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
