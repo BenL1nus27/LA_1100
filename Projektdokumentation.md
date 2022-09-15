@@ -6,7 +6,7 @@ Müller
 | ----- | ------- | ------------------------------------------------------------ |
 | 28.08 | 0.0.1   | Heute habe ich das Projekt geplant.                          |
 |   01.09    | 0.0.2      |  Heute habe ich den Code geschrieben und den Generator sommit in den Grunzügen fertig gecodet.|                                             | 08.09    | 0.0.3 | Heute habe ich den Code verfeinert und grundlegende Fehler behoben. Danach habe ich das Layout verschönert und die Benutzerfreundlichkeit verbessert. |
-|       |         |                                                              |
+|   15.09    |     0.0.4    |   Heute habe ich kleine Änderungen vorgenommen, ich habe den Code etwas schöner geschrieben und die CW Commands ausgebessert.                                                           |
 
 
 
@@ -35,7 +35,7 @@ Dieses Projekt beinhaltet einen RandomNumber Generator, bei dem der User die Zah
 | 1.1  |   User drückt auf Start. | Befehl zu Ausführung   | Der RNGenerator speichert eine RN ohne sie auszugeben.|
 | 2.1  | User versucht die RN zu erraten. |Eingabe einer Zahl| Der RNG vergeleicht die RN und die Eingabe miteinander und gibt aus ob <, > oder =.|
 |4.1| User errät RN. | Eingabe von RN|  RNG gibt aus wieviele Rateversuche gebraucht wurden.|
-|5.1| User gibt Zahl auserhalb 1-100 ein| Eingabe von -13| Der RNG gibt aus dass EIngabe ausserhalb des benutzbaren Zahlenraumes ist.|
+|5.1| User gibt Zahl auserhalb 1-100 ein| Eingabe von -13| Der RNG gibt aus dass Eingabe ausserhalb des benutzbaren Zahlenraumes ist.|
 |6.1| User versucht RN zu erraten.| Eingabe einer Zahl| Der Generator erkennt die Ausgabe und geht zu US 1 über.|
 ### 1.4 Diagramme
  
@@ -50,8 +50,8 @@ Dieses Projekt beinhaltet einen RandomNumber Generator, bei dem der User die Zah
 | 2 | 1.9.22   |  Ben   | Schreiben des Codes zu Erkennung einer Eingabe.  | 1 Arbeitspaket|
 |3 | 08.9.22| Ben| Verbessung des Designes, Anpassungen der Buttons.| 2 Arbeitspakete|
 |4| 1.9.22| Ben| Schreiben des Codes zur Zählung und Ausgabe der benötigten Versuche.| 1 Arbeitspaket|
-|5| 08.9.22| Ben | Schreiben des Codes zur Erfragung des Schwierigkeitsgrades.|
-
+|5| 08.9.22| Ben | Schreiben des Codes zur Erfragung des Schwierigkeitsgrades.| 1 Arbeitspaket|
+|6| 15.09.22| Ben | Verbesserungen sowie verschönerung des Codes.| 2-3 Arbeitspaket|
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
@@ -71,7 +71,7 @@ Total:
 | 3.A| 01.09| Ben | 1 AP | 1.5 AP|
 | 4.A| 08.09| Ben | 2 AP | 2 AP|
 |5.A| 08.09| Ben | 1 AP| 1 AP|
-
+|6.A| 15.09| Ben| 2-3 AP | ca. 3.5 AP|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
