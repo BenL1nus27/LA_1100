@@ -87,8 +87,10 @@ Total: 8-9 Arbeitspakete
 |6.1|22.09|  Der Generator erkennt wenn und was für eine Eingabe gemacht wurde, und reagiert entsprechend darauf.  |Ben|
 |7.1|22.09| Nicht 1 zu 1 so umgesetzt, aber nach Beendigung des ersten Schwierigkeitsgrades, fragt das Programm ob nochmals eine Runde, aber diesmal schwieriger, gespielt werden möchte. |Ben|
 
+### Fazit
 
+Alle Testfälle funktionierten. Jedoch ging ich anfangs davon aus, dass wir eine Webapplikation gestalten müssten. Deswegen gab es dazu ebenfalls eine Userstory, welche ich jetzt gestrichen beziehungsweise als nicht möglich deklariert habe.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+https://github.com/BenL1nus27/LA_1100/blob/main/Lernbericht_BenMueller.md
