@@ -67,5 +67,5 @@ Die Planung meiner Projektdokumentation konnte mir da zum Glück etwas unter die
 
 Nächstes Mal, werde ich meine Projektplanung detaillierter gestalten, um Momente des Nichtstuns zu vermeiden und sommit auch etwas Zeit zu sparen.
 
-
+ 
 
